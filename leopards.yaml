@@ -1,14 +1,11 @@
 team: Leopards
 
 manager: Luke
-<<<<<<< HEAD
-coach: Oscar
-=======
 coach: Melissa
->>>>>>> conflict-2
 
 Nora:
   - Linda
   - William
   - David
   - Olivia
+  - Evie
